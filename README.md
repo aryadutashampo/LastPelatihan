@@ -5,6 +5,7 @@ Pelatihan ini merupakan pelatihan terakhir sebelum projekan. Pelatihan diawali d
 - Light & Dark Mode
 - Language Translate
 
+[logo_perindo](LastPelatihan/perindo.jpg)
 
 
 ## Tech Stack
